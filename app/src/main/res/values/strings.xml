@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">ugy-es-projekt-koveto-program</string>
+    <string name="app_name">IssueTracker</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="issuetracker">IssueTracker</string>
+    <string name="register">register</string>
+    <string name="registration">Registration</string>
+    <string name="password_again">Password again</string>
+    <string name="back">Back</string>
+    <string name="email">Email</string>
+    <string name="login_as_anonymous">Login as anonymous</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_issue_tracking">IssueTrackingActivity</string>
+    <string name="new_ticket">New ticket</string>
+    <string name="add_ticket">Add Ticket</string>
+    <string name="task_description">Task description</string>
+    <string name="create_task">Create Task</string>
+    <string name="progress">Progress</string>
+    <string name="delete">Delete</string>
+    <string name="finish">Finish</string>
+    <string name="delete_ticket">Delete Ticket</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="modify_task">Modify Task</string>
+    <string name="modify_ticket">Modify ticket</string>
 </resources>

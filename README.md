@@ -1,1 +1,0 @@
-# Ugy-es-projekt-koveto-program

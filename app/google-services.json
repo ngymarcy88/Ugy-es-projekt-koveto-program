@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390854010298",
+    "project_id": "ugyletvezeto",
+    "storage_bucket": "ugyletvezeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390854010298:android:8e44ff2e98369ce321e983",
+        "android_client_info": {
+          "package_name": "com.example.issuetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3balpFvE2wcjG5GCwTqhVvLBp6_wYieo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
